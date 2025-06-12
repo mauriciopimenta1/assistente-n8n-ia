@@ -1,7 +1,7 @@
 {
   "name": "assistente-n8n-ia",
   "version": "1.0.0",
-  "public": true,
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
